@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PhoneStoreApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list_title">
+        <item>Samsung</item>
+        <item>Apple</item>
+    </string-array>
+
+    <string-array name="list_price">
+        <item>$300 - $500</item>
+        <item>$600 - $1000</item>
+    </string-array>
+
+    <string-array name="list_size">
+        <item>4.5 to 5.5 inches</item>
+        <item>4.5 to 5.5 inches</item>
+    </string-array>
+</resources>
